@@ -65,4 +65,4 @@ GitHub Pages :
 ## 📌 How to Preview Locally
 1. Download or clone the repo:  
    ```bash
-   git clone https://github.com/Akshaykumar-324/bootstrap5_internship_ui.git
+   git clone https://github.com/Akshaykumar-324/bootstrap-ui-task

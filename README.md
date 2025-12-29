@@ -11,7 +11,7 @@ This is a small demo project built to satisfy the internship task: remix Bootstr
 
 ## 🌐 Live Demo
 GitHub Pages :  
-👉 [https://Akshaykumar-324.github.io/bootstrap5_internship_ui](https://Akshaykumar-324.github.io/bootstrap5_internship_ui)
+👉 [https://Akshaykumar-324.github.io/bootstrap5_internship_ui](https://github.com/Akshaykumar-324/bootstrap-ui-task)
 
 ---
 

@@ -10,8 +10,8 @@ This is a small demo project built to satisfy the internship task: remix Bootstr
 - `README.md` — Project documentation & reflection
 
 ## 🌐 Live Demo
-GitHub Pages / Netlify Link:  
-👉 [https://yourusername.github.io/bootstrap5_internship_ui](https://yourusername.github.io/bootstrap5_internship_ui)
+GitHub Pages :  
+👉 [https://Akshaykumar-324.github.io/bootstrap5_internship_ui](https://Akshaykumar-324.github.io/bootstrap5_internship_ui)
 
 ---
 
@@ -65,4 +65,4 @@ GitHub Pages / Netlify Link:
 ## 📌 How to Preview Locally
 1. Download or clone the repo:  
    ```bash
-   git clone https://github.com/yourusername/bootstrap5_internship_ui.git
+   git clone https://github.com/Akshaykumar-324/bootstrap5_internship_ui.git
